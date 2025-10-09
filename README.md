@@ -14,6 +14,7 @@
  - [1PassHound](https://github.com/SpecterOps/1PassHound) - 1Password for Business OpenGraph extension
  - [GitHound](https://github.com/SpecterOps/GitHound) - BloodHound OpenGraph collector for GitHub
  - [SnowHound](https://github.com/SpecterOps/SnowHound) - BloodHound extension for Snowflake
+ - [MSSQLHound](https://github.com/SpecterOps/MSSQLHound) - PowerShell collector for adding MSSQL attack paths to BloodHound
 
 ## Unofficial Data Collectors
 
