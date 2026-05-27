@@ -30,6 +30,7 @@ There is no pre-established order of items in each category. If you want to cont
  - [SoapHound.py](https://github.com/j4s0nmo0n/Soaphound.py) - Bloodhound python Ingestor using ADWS 
  - [vCenterHound](https://github.com/MorDavid/vCenterHound) - Collect infrastructure and permissions data from vCenter and export it as a BloodHound‑compatible graph
  - [PrivHound](https://github.com/dazzyddos/PrivHound) -  A BloodHound OpenGraph collector that models Windows local privilege escalation as interconnected attack paths. 
+ - [TailscaleHound](https://github.com/KingOfTheNOPs/TailscaleHound) - An OpenGraph collector for Tailscale
 
  ## Data Converters
 
